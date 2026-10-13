@@ -63,12 +63,16 @@ En la sección superior del dashboard se presentan cuatro métricas clave estruc
 * **Objetivo:** Proporcionar una vista integral y ejecutiva que reúna todas las métricas clave (*Total Sales, Average Sales, Number of Items, Average Rating*) desglosadas por tipo de canal (*Supermarket Type1, Type2, Type3, Grocery Store*).
 * **Visualización:** Tabla Matricial (*Matrix Visual*) con barras de datos condicionales.
 
-
+Los datos utilizados para este análisis provienen de un conjunto de datos público alojado en **Kaggle**:
+* **Plataforma:** Kaggle
+* **Dataset:** Blinkit / Grocery Sales Dataset
+* **Enlace al Dataset:** [https://www.kaggle.com/datasets/architgoel29/blinkit-dashboard)
+  
 ## 📁 Estructura del Repositorio
-
 ```text
 ├── data/
 │   └── blinkIT Grocery Data       # Dataset original
+├── images/
 ├── docs/
 │   └── BRD_Blinkit_PowerBI.docx   # Documento de Requerimientos de Negocio
 ├── powerbi/
