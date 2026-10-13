@@ -1,11 +1,11 @@
-<img width="1256" height="621" alt="image" src="https://github.com/user-attachments/assets/08af1a8f-746e-40aa-87a2-7be918021f51" /># 📊 Análisis de Desempeño de Ventas, Satisfacción del Cliente e Inventario — Blinkit (Power BI)
+
 ## 📌 Descripción del Proyecto
 Este proyecto consiste en el desarrollo de una solución analítica e interactiva en **Microsoft Power BI** para **Blinkit**. Su objetivo principal es evaluar el desempeño de las ventas, comprender los patrones de satisfacción de los clientes y optimizar la distribución del inventario en los diferentes tipos de establecimientos (*outlets*).
 
 Mediante el uso de indicadores clave de desempeño (KPIs) y visualizaciones dinámicas, el dashboard permite identificar oportunidades de optimización operativa y comercial.
 VISTA PREVIA
 ---
-
+<img width="1256" height="621" alt="image" src="https://github.com/user-attachments/assets/08af1a8f-746e-40aa-87a2-7be918021f51" /># 📊 Análisis de Desempeño de Ventas, Satisfacción del Cliente e Inventario — Blinkit (Power BI)
 ## 🎯 Objetivos de Negocio
 * **Desempeño Comercial:** Analizar los impulsores de ingresos a través de los atributos de los productos (contenido de grasa, categoría de ítem).
 * **Satisfacción del Cliente:** Monitorear la experiencia del usuario evaluando la calificación promedio por tipología de producto y punto de venta.
