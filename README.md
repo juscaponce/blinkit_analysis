@@ -1,4 +1,4 @@
-Mediante el uso de indicadores clave de desempeño (KPIs) y visualizaciones dinámicas, el dashboard permite identificar oportunidades de optimización operativa y comercial.
+ANÁLISIS COMERCIAL
 ---
 ## 📌 Descripción del Proyecto
 Este proyecto consiste en el desarrollo de una solución analítica e interactiva en **Microsoft Power BI** para **Blinkit**. Su objetivo principal es evaluar el desempeño de las ventas, comprender los patrones de satisfacción de los clientes y optimizar la distribución del inventario en los diferentes tipos de establecimientos (*outlets*).
